@@ -74,7 +74,7 @@
     "react-codemirror": "^1.0.0",
     "react-dom": "^15.4.2",
     "rimraf": "^2.4.0",
-    "style-loader": "~0.8.0",
+    "style-loader": "~0.23.1",
     "url-loader": "~0.5.5",
     "webpack": "^1.10.0"
   },
