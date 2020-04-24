@@ -73,7 +73,7 @@
     "react-addons-test-utils": "^15.4.2",
     "react-codemirror": "^1.0.0",
     "react-dom": "^15.4.2",
-    "rimraf": "^2.4.0",
+    "rimraf": "^2.7.1",
     "style-loader": "~0.8.0",
     "url-loader": "~0.5.5",
     "webpack": "^1.10.0"
